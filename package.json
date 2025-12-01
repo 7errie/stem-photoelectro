@@ -4,17 +4,17 @@
   "version": "1.0.0",
   "homepage": "https://7errie.github.io/stem-photoelectro",
   "dependencies": {
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.3.0",
     "polish": "^0.2.3",
-    "polished": "^4.2.2",
-    "react": "^18.2.0",
-    "react-archer": "^4.0.1",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0",
+    "polished": "^4.3.1",
+    "react": "^19.2.0",
+    "react-archer": "^4.4.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.6",
     "react-scripts": "^5.0.1",
-    "react-slider": "^2.0.1",
-    "styled-components": "^5.3.5",
-    "web-vitals": "^2.1.4"
+    "react-slider": "^2.0.6",
+    "styled-components": "^6.1.19",
+    "web-vitals": "^5.1.0"
   },
   "resolutions": {
     "styled-components": "^5"
